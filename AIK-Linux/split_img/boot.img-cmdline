@@ -1,0 +1,1 @@
+quiet splash plymouth.ignore-serial-consoles plymouth.prefer-fbcon pmos_boot_uuid=a0d6a667-e3a0-43f4-9c73-5eaa0005aa19 pmos_root_uuid=2c51b76a-9803-456e-961d-e05ff8403bd2 pmos_rootfsopts=defaults
